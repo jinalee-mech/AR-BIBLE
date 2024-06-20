@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AR-BIBLE</string>
+    <string-array name="schedule_types">
+        <item>오픈</item>
+        <item>미들</item>
+        <item>마감</item>
+    </string-array>
+</resources>
