@@ -1,7 +1,8 @@
 # AR-BIBLE
 <br><br>
 # JAVA, Android Studio
-![image](https://github.com/jinalee-mech/AR-BIBLE/assets/90688988/37dc20d3-0c95-48f2-a542-2bf35c1623fa)
+![ar-bible](https://github.com/user-attachments/assets/9aa72e75-7db2-4c02-95cd-498465030bd1)
+
 <br><br>
 
 <br><br>
